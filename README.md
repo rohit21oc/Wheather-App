@@ -14,10 +14,9 @@ The app was created by Rohit Kumar with the intention of helping beginners under
 
 ## Live Demo
 Check out the live demo of the application <a href="https://rohit21oc.github.io/Wheather-App/">here</a>.
-
+<img src="https://github.com/rohit21oc/Wheather-App/blob/main/wheather-app-photo.png?raw=true" alt="wheather-app-photo">
 
 ## Show Your Support
 If you find this project helpful or like the design, please give it a ⭐ on the <a href="https://github.com/rohit21oc/Wheather-App"> GitHub repository</a>. Your support is appreciated!
 
-![WeatherApp]([https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png](https://rohit21oc.github.io/Wheather-App/))
 
