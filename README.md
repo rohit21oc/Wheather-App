@@ -11,12 +11,11 @@ The app was created by Rohit Kumar with the intention of helping beginners under
 > Simple and Clean UI: Focuses on user experience with an intuitive interface.
 
 ## Live Demo
-Check out the live demo of the application here.
+Check out the live demo of the application <a href="">here</a>.
 
-Live Demo:  https://rohit21oc.github.io/Wheather-App/
 
 ## Show Your Support
-If you find this project helpful or like the design, please give it a ⭐ on the GitHub repository. Your support is appreciated!
+If you find this project helpful or like the design, please give it a ⭐ on the <a href="https://github.com/rohit21oc/Wheather-App"> GitHub repository</a>. Your support is appreciated!
 
 ![WeatherApp]([https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png](https://rohit21oc.github.io/Wheather-App/))
 
