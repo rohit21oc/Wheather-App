@@ -1,6 +1,6 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# "Simple Weather Application"
 
-## Overview of Weather App
+## This Simple Weather Application is built using HTML, CSS, and JavaScript. It’s a great starter project for beginners who want to learn how to create a functional and stylish web application from scratch.
 
 It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
