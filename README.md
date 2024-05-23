@@ -11,7 +11,7 @@ The app was created by Rohit Kumar with the intention of helping beginners under
 > Simple and Clean UI: Focuses on user experience with an intuitive interface.
 
 ## Live Demo
-Check out the live demo of the application <a href="">here</a>.
+Check out the live demo of the application <a href="https://rohit21oc.github.io/Wheather-App/">here</a>.
 
 
 ## Show Your Support
