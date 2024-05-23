@@ -6,9 +6,11 @@
 The app was created by Rohit Kumar with the intention of helping beginners understand the fundamentals of web development through a practical example. It provides a clean, easy-to-understand codebase and demonstrates how to integrate a weather API to fetch real-time weather data.
 
 ## Features
-> Real-time Weather Data: Fetches current weather information from a weather API.
-> Responsive Design: Ensures the application looks good on all devices.
-> Simple and Clean UI: Focuses on user experience with an intuitive interface.
+<ul>
+  <li>Real-time Weather Data: Fetches current weather information from a weather API.</li>
+  <li>Responsive Design: Ensures the application looks good on all devices.</li>
+  <li>Simple and Clean UI: Focuses on user experience with an intuitive interface.</li>
+</ul>
 
 ## Live Demo
 Check out the live demo of the application <a href="https://rohit21oc.github.io/Wheather-App/">here</a>.
