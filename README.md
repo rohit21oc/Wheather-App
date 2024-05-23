@@ -1,6 +1,6 @@
 # "Simple Weather Application"
 
-## This Simple Weather Application is built using HTML, CSS, and JavaScript. It’s a great starter project for beginners who want to learn how to create a functional and stylish web application from scratch.
+<p>This Simple Weather Application is built using HTML, CSS, and JavaScript. It’s a great starter project for beginners who want to learn how to create a functional and stylish web application from scratch.</p>
 
 ## About the Project
 The app was created by Rohit Kumar with the intention of helping beginners understand the fundamentals of web development through a practical example. It provides a clean, easy-to-understand codebase and demonstrates how to integrate a weather API to fetch real-time weather data.
